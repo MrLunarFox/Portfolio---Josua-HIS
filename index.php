@@ -1,51 +1,8 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="Css/bootstrap.css">
-    <link rel="icon" type="image/x-icon" href="./Image/4365933.png" /><link rel="shortcut icon" type="image/x-icon" href="./Image/4365933.png" />
-    <title>Portfolio - Josua HIS</title>
-    <style>
-        .Titrepage {
-            color: rgb(255, 255, 255);
-            text-align: center;
-        }
-        .Titrepage2 {
-            color: rgb(255, 255, 255);
-            text-align: center;
-            font-size: 500%;
-            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        }
-        .nav-item {
-            text-align: center;
-        }
-    </style>
-    <style> /*Background floue*/
-        body {
-position: absolute;
-        top: 0; bottom: 0; left: 0; right: 0;
-        height: 100%;
-    margin:0;
-    padding:0;
-    background-size: 100% ;
-    width:100%;  
-    color:black;
-}
-body:before {
-        content: "";
-        position: fixed;
-        height: 100%; width: 100%;
-        background: url(Image/code-source-de-bureau-et-technologie-contexte-developpeur-ou-programmeur-en-matiere-de-codage-et-de-programmation-le-papier-peint-par-le-langage-informatique-et-le-code-source-com-pf3nra.jpg);
-        background-size: cover;
-        z-index: -1; /* Keep the background behind the content */     
-        -webkit-filter: blur(8px);
-    -webkit-background-size: cover; /* pour Chrome et Safari */
-    -moz-background-size: cover; /* pour Firefox */
-    -o-background-size: cover; /* pour Opera */
-    background-size: cover; /* version standardisée */
-    }
-    </style>
-</head>
+
+<?php 
+  include "header.php";
+?>
+
 <body>
   <div class="container"></div>
     <header>
@@ -102,10 +59,7 @@ body:before {
         <h1 class="Titrepage2">Josua HIS</h1>
         <h1 class="Titrepage">Je suis étudiant en BTS SIO option SLAM.</h1>
     </article>
-    <footer>
 
-    </footer>
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
-</body>
-</html>
+<?php 
+  include "footer.php";
+?>
