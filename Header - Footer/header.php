@@ -63,29 +63,29 @@ body:before {
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="../presentation.html">Présentation</a>
+                  <a class="nav-link" href="../presentation.php">Présentation</a>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Projets / Réalisations</a>
                   <div class="dropdown-menu">
-                    <a class="dropdown-item" href="../Sous-page/ProjetA.html">Projet A</a>
-                    <a class="dropdown-item" href="../Sous-page/ProjetB.html">Projet B</a>
+                    <a class="dropdown-item" href="../Sous-page/ProjetA.php">Projet A</a>
+                    <a class="dropdown-item" href="../Sous-page/ProjetB.php">Projet B</a>
                     <div class="dropdown-divider"></div>
                   </div>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Expérience professionnel</a>
                   <div class="dropdown-menu">
-                    <a class="dropdown-item" href="../Sous-page/StageN°1.html">Stage entreprise A</a>
-                    <a class="dropdown-item" href="../Sous-page/StageN°2.html">Stage entreprise B</a>
+                    <a class="dropdown-item" href="../Sous-page/StageN°1.php">Stage entreprise A</a>
+                    <a class="dropdown-item" href="../Sous-page/StageN°2.php">Stage entreprise B</a>
                     <div class="dropdown-divider"></div>
                   </div>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="../veille-technologique.html">Veille technologique</a>
+                  <a class="nav-link" href="../veille-technologique.php">Veille technologique</a>
                 </li>
                   <li class="nav-item">
-                  <a class="nav-link" href="../contact.html">Contact</a>
+                  <a class="nav-link" href="../contact.php">Contact</a>
                 </li>
               </ul>
             </div>
