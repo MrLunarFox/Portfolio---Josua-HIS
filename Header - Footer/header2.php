@@ -50,7 +50,7 @@ body:before {
   <div class="container"></div>
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-            <a class="navbar-brand" href="./index.php">Portfolio</a>
+            <a class="navbar-brand" href="../index.php">Portfolio</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
@@ -58,34 +58,34 @@ body:before {
             <div class="collapse navbar-collapse" id="navbarColor01">
               <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                  <a class="nav-link" href="./index.php">Accueil
+                  <a class="nav-link" href="../index.php">Accueil
                     <span class="sr-only">(current)</span>
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="./presentation.php">Présentation</a>
+                  <a class="nav-link" href="../presentation.php">Présentation</a>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Projets / Réalisations</a>
                   <div class="dropdown-menu">
-                    <a class="dropdown-item" href="./Sous-page/ProjetA.php">Projet A</a>
-                    <a class="dropdown-item" href="./Sous-page/ProjetB.php">Projet B</a>
+                    <a class="dropdown-item" href="Sous-page/ProjetA.php">Projet A</a>
+                    <a class="dropdown-item" href="Sous-page/ProjetB.php">Projet B</a>
                     <div class="dropdown-divider"></div>
                   </div>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Expérience professionnel</a>
                   <div class="dropdown-menu">
-                    <a class="dropdown-item" href="./Sous-page/StageN°1.php">Stage entreprise A</a>
-                    <a class="dropdown-item" href="./Sous-page/StageN°2.php">Stage entreprise B</a>
+                    <a class="dropdown-item" href="Sous-page/StageN°1.php">Stage entreprise A</a>
+                    <a class="dropdown-item" href="Sous-page/StageN°2.php">Stage entreprise B</a>
                     <div class="dropdown-divider"></div>
                   </div>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="./veille-technologique.php">Veille technologique</a>
+                  <a class="nav-link" href="../veille-technologique.php">Veille technologique</a>
                 </li>
                   <li class="nav-item">
-                  <a class="nav-link" href="./contact.php">Contact</a>
+                  <a class="nav-link" href="../contact.php">Contact</a>
                 </li>
               </ul>
             </div>

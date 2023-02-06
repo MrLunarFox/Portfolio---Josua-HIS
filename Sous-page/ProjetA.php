@@ -1,6 +1,6 @@
 
 <?php 
-  include "../Header - Footer/header.php";
+  include "../Header - Footer/header2.php";
 ?>
 
     <article>
