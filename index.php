@@ -1,6 +1,6 @@
 
 <?php 
-  include "header.php";
+  include "./Header - Footer/header.php";
 ?>
 
     <article>
@@ -16,5 +16,5 @@
     </article>
 
 <?php 
-  include "footer.php";
+  include "./Header - Footer/footer.php";
 ?>
