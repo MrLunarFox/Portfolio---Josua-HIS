@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="Css/bootstrap.css">
-    <link rel="icon" type="image/x-icon" href="./Image/4365933.png" /><link rel="shortcut icon" type="image/x-icon" href="./Image/4365933.png" />
+    <link rel="icon" type="image/x-icon" href="./Image/portfolio-suitcase_icon-icons.com_52927.png" /><link rel="shortcut icon" type="image/x-icon" href="./Image/portfolio-suitcase_icon-icons.com_52927.png" />
     <title>Portfolio - Josua HIS</title>
     <style>
         .Titrepage {

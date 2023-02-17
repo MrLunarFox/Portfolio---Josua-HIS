@@ -5,7 +5,7 @@
 
     <article>
         <br>
-        <h1 class="Titrepage">ProjetB</h1>
+        <h1 class="Titrepage">Projet B</h1>
     </article>
 
 <?php 

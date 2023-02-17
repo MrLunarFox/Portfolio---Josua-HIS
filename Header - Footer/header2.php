@@ -2,16 +2,16 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="Css/bootstrap.css">
-    <link rel="icon" type="image/x-icon" href="./Image/4365933.png" /><link rel="shortcut icon" type="image/x-icon" href="./Image/4365933.png" />
+    <link rel="stylesheet" href="../Css/bootstrap.css">
+    <link rel="icon" type="image/x-icon" href="./Image/portfolio-suitcase_icon-icons.com_52927.png" /><link rel="shortcut icon" type="image/x-icon" href="./Image/portfolio-suitcase_icon-icons.com_52927.png" />
     <title>Portfolio - Josua HIS</title>
     <style>
         .Titrepage {
-            color: rgb(255, 255, 255);
+            color: black;
             text-align: center;
         }
         .Titrepage2 {
-            color: rgb(255, 255, 255);
+            color: black;
             text-align: center;
             font-size: 500%;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -68,16 +68,16 @@ body:before {
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Projets / Réalisations</a>
                   <div class="dropdown-menu">
-                    <a class="dropdown-item" href="Sous-page/ProjetA.php">Projet A</a>
-                    <a class="dropdown-item" href="Sous-page/ProjetB.php">Projet B</a>
+                    <a class="dropdown-item" href="../Sous-page/ProjetA.php">Projet A</a>
+                    <a class="dropdown-item" href="../Sous-page/ProjetB.php">Projet B</a>
                     <div class="dropdown-divider"></div>
                   </div>
                 </li>
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Expérience professionnel</a>
                   <div class="dropdown-menu">
-                    <a class="dropdown-item" href="Sous-page/StageN°1.php">Stage entreprise A</a>
-                    <a class="dropdown-item" href="Sous-page/StageN°2.php">Stage entreprise B</a>
+                    <a class="dropdown-item" href="../Sous-page/StageN°1.php">Stage entreprise A</a>
+                    <a class="dropdown-item" href="../Sous-page/StageN°2.php">Stage entreprise B</a>
                     <div class="dropdown-divider"></div>
                   </div>
                 </li>
